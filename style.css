@@ -214,6 +214,8 @@ section {
     cursor: pointer;
     margin-top: 10px;
     transition: background-color 0.3s ease;
+    display: block;
+    margin: 10px auto;
 }
 
 .boton-vermas:hover,
